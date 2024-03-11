@@ -3,10 +3,14 @@ Kitchen JS Font Based Icons
 
 ## Build Icons
 ```
+npm run build
+```
+or
+```
 node create.js
 ```
 ```
------node build.js
+node build.js
 ```
 
 ## Use
@@ -15,7 +19,7 @@ Go to the fonts folder in the repo or in the root of the release version. Exampl
    <link rel="stylesheet" href="kfi.css" />
    <link rel="stylesheet" href="kfi.js" />
    
-   <i class="kfi-badge"></i>
+   <i class="kfi-kitchenjs-logo"></i>
 ```
 
 
