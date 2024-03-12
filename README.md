@@ -2,7 +2,7 @@
 Kitchen JS Font Based Icons
 
 ## ScreenShots
-![Search from fonts folder](./ScreenShots/Screenshot1.png.png "Search from fonts folder")
+![Search from fonts folder](./ScreenShots/Screenshot1.png "Search from fonts folder")
 
 ## Build Icons
 ```
