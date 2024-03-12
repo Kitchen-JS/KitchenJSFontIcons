@@ -22,6 +22,11 @@ Go to the fonts folder in the repo or in the root of the release version. Exampl
    <i class="kfi-kitchenjs-logo"></i>
 ```
 
+### kfi.js JS Methods
+Get HTML char code ex ```"ebca"```, ```&#ebca;```, ```\ebca```
+```
+kfi["kfi-kitchenjs-logo"]
+```
 
 
 
