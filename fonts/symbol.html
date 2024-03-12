@@ -120,6 +120,10 @@
   // List icons stored in pfi.js
   keys.forEach((icon) => 
   {
+      if(typeof kfi[icon] === 'function')
+      {
+        return;
+      }
       let li = document.createElement('li');
       let i = document.createElement('i');
       i.classList.add(icon);
@@ -127,8 +131,11 @@
       li.setAttribute('value', icon);
       let p = document.createElement('p');
       p.innerHTML = `${icon} <br /><br />`;
-      p.innerHTML += `<br /> &lt;i class="${icon}"&gt;&lt;/i&gt;`
+      p.innerHTML += `<br /> &lt;i class="${icon}"&gt;&lt;/i&gt;`;
       li.append(p);
+      let p2 = document.createElement('p');
+      p2.innerHTML = `&amp;${kfi[icon].htmlcode}`;
+      li.append(p2);
       fontsEl.querySelector('ul').append(li);        
   });
 

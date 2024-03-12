@@ -1,17 +1,17 @@
 /*
 kfi v1.0.0
-@lastBuild 1710185606774
+@lastBuild 1710256097980
 https://github.com/Kitchen-JS/KitchenJSFontIcons
 */
 
 @font-face {
   font-family: "kfi";
-  src: url('kfi.eot?t=1710185606774'); /* IE9*/
-  src: url('kfi.eot?t=1710185606774#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("kfi.woff2?t=1710185606774") format("woff2"),
-  url("kfi.woff?t=1710185606774") format("woff"),
-  url('kfi.ttf?t=1710185606774') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('kfi.svg?t=1710185606774#kfi') format('svg'); /* iOS 4.1- */
+  src: url('kfi.eot?t=1710256097980'); /* IE9*/
+  src: url('kfi.eot?t=1710256097980#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("kfi.woff2?t=1710256097980") format("woff2"),
+  url("kfi.woff?t=1710256097980") format("woff"),
+  url('kfi.ttf?t=1710256097980') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('kfi.svg?t=1710256097980#kfi') format('svg'); /* iOS 4.1- */
 }
 
 [class^="kfi"], [class^="kfi-"], [class*=" kfi-"] {

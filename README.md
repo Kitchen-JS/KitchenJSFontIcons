@@ -1,6 +1,9 @@
 # KitchenJSFontIcons
 Kitchen JS Font Based Icons
 
+## ScreenShots
+![Search from fonts folder](./ScreenShots/Screenshot1.png.png "Search from fonts folder")
+
 ## Build Icons
 ```
 npm run build
@@ -24,12 +27,29 @@ Go to the fonts folder in the repo or in the root of the release version. Exampl
 
 ### kfi.js JS Methods
 Get HTML char code ex ```"ebca"```, ```&#ebca;```, ```\ebca```
+
+outputs ebca
 ```
 kfi["kfi-kitchenjs-logo"]
 ```
-
-
-
+or
+```
+kfi.getChar('kfi-kitchenjs-logo')
+```
+Examples
+```
+kfi.getChar('kfi-kitchenjs-logo').char // ""  
+```
+```
+kfi.getChar('kfi-kitchenjs-logo').unicode // "ee80"
+```
+```
+kfi.getChar('kfi-kitchenjs-logo').htmlcode // "#61056;" 
+```
+to use 
+```
+&amp; + kfi.getChar('kfi-kitchenjs-logo').htmlcode
+```
 
 
 ## Credits
