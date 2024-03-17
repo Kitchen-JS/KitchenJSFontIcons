@@ -1,6 +1,6 @@
 /**
 * kfi v2.0.0
-* @lastBuild Tue Mar 12 2024 14:31:35 GMT-0500 (Central Daylight Time)
+* @lastBuild Sun Mar 17 2024 16:57:13 GMT-0500 (Central Daylight Time)
 * https://github.com/Kitchen-JS/KitchenJSFontIcons
 */
 
