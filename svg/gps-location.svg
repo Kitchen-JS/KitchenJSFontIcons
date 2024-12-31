@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_2"
+   x="0px"
+   y="0px"
+   width="283.46px"
+   height="283.46px"
+   viewBox="0 0 283.46 283.46"
+   enable-background="new 0 0 283.46 283.46"
+   xml:space="preserve"
+   sodipodi:docname="gps-location.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs12650" /><sodipodi:namedview
+   id="namedview12648"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="0.37042265"
+   inkscape:cx="-101.23571"
+   inkscape:cy="375.24704"
+   inkscape:window-width="1920"
+   inkscape:window-height="1015"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_2" />
+
+<g
+   style="fill:#000000"
+   id="g12781"
+   transform="matrix(13.46465,0,0,13.46465,-19.845804,-19.845804)"><path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="m 2,12 c 0,0.3853 0.31236,0.6977 0.69767,0.6977 h 1.89274 c 0.33037,3.5532 3.15873,6.3815 6.71189,6.7119 v 1.8927 C 11.3023,21.6876 11.6147,22 12,22 c 0.3853,0 0.6977,-0.3124 0.6977,-0.6977 v -1.8927 c 3.5532,-0.3304 6.3815,-3.1587 6.7119,-6.7119 h 1.8927 C 21.6876,12.6977 22,12.3853 22,12 22,11.6147 21.6876,11.3023 21.3023,11.3023 H 19.4096 C 19.0792,7.74914 16.2509,4.92078 12.6977,4.59041 V 2.69767 C 12.6977,2.31236 12.3853,2 12,2 11.6147,2 11.3023,2.31236 11.3023,2.69767 V 4.59041 C 7.74914,4.92078 4.92078,7.74914 4.59041,11.3023 H 2.69767 C 2.31236,11.3023 2,11.6147 2,12 Z m 6.51163,0 c 0,-1.9266 1.56177,-3.48837 3.48837,-3.48837 1.9266,0 3.4884,1.56177 3.4884,3.48837 0,1.9266 -1.5618,3.4884 -3.4884,3.4884 -1.9266,0 -3.48837,-1.5618 -3.48837,-3.4884 z"
+     fill="#1c274c"
+     id="path12769"
+     style="fill:#000000" /><path
+     d="m 9.90698,12 c 0,-1.1559 0.93712,-2.09302 2.09302,-2.09302 1.1559,0 2.093,0.93712 2.093,2.09302 0,1.1559 -0.9371,2.093 -2.093,2.093 -1.1559,0 -2.09302,-0.9371 -2.09302,-2.093 z"
+     fill="#1c274c"
+     id="path12771"
+     style="fill:#000000" /></g></svg>
