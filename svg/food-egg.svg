@@ -1,9 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="283.465px" height="283.465px" viewBox="0 0 283.465 283.465" enable-background="new 0 0 283.465 283.465"
-	 xml:space="preserve">
-<path d="M238.496,131.891C227.504,50.929,176.137,7.087,141.73,7.087c-34.416,0-85.777,43.842-96.761,124.804
-	c-11.011,80.944,24.29,144.487,96.761,144.487C214.197,276.378,249.506,212.835,238.496,131.891L238.496,131.891z"/>
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="283.465px"
+   height="283.465px"
+   viewBox="0 0 283.465 283.465"
+   enable-background="new 0 0 283.465 283.465"
+   xml:space="preserve"
+   sodipodi:docname="food-egg.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs12394" /><sodipodi:namedview
+   id="namedview12392"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="1.047695"
+   inkscape:cx="22.430193"
+   inkscape:cy="117.40058"
+   inkscape:window-width="1920"
+   inkscape:window-height="1015"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<path
+   id="path12389"
+   d="M 141.73047 7.0878906 C 107.3145 7.0878906 55.952739 50.928706 44.96875 131.89062 C 33.957761 212.83454 69.259541 276.37891 141.73047 276.37891 C 214.1974 276.37891 249.50608 212.83454 238.49609 131.89062 C 227.5041 50.928706 176.13743 7.0878906 141.73047 7.0878906 z M 79.097656 189.76172 A 3.519095 3.0929374 88.525949 0 1 79.779297 189.78711 A 3.519095 3.0929374 88.525949 0 1 80.904297 190.23828 A 3.519095 3.0929374 88.525949 0 1 82.435547 193.01953 C 84.1512 218.45233 99.15256 237.65913 117.47266 239.16016 C 123.41953 239.59434 129.38744 238.13235 134.92969 234.83789 A 3.519095 3.0929374 88.525949 0 1 138.48242 240.55078 C 130.9554 248.45726 121.41849 252.52854 111.76367 251.7793 A 3.519095 3.0929374 88.525949 0 1 111.75977 251.7793 C 90.060452 250.0572 74.248906 225.30822 75.808594 197.19727 A 3.519095 3.0929374 88.525949 0 1 75.814453 197.11523 C 75.927512 195.62959 76.08964 194.15079 76.298828 192.68164 A 3.519095 3.0929374 88.525949 0 1 79.097656 189.76172 z " />
 </svg>
