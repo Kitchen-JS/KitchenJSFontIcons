@@ -1,15 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="283.68px" height="283.92px" viewBox="0 0 283.68 283.92" enable-background="new 0 0 283.68 283.92" xml:space="preserve">
-<g>
-	<path d="M194.26,49.257h-13.951c-2.218-22.64-21.328-40.348-44.545-40.348c-23.283,0-42.441,17.813-44.567,40.542
-		C68.466,51.583,50.65,70.736,50.65,94.019c0,24.71,20.06,44.77,44.766,44.77h98.844c24.71,0,44.771-20.06,44.771-44.77
-		C239.03,69.313,218.97,49.257,194.26,49.257z"/>
-	<g>
-		<polygon fill-rule="evenodd" clip-rule="evenodd" points="98.057,278.2 125.933,215.771 96.24,215.771 123.744,154.179 
-			167.887,154.179 135.153,195.794 163.51,194.981 		"/>
-	</g>
-</g>
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="283.68px"
+   height="283.92px"
+   viewBox="0 0 283.68 283.92"
+   enable-background="new 0 0 283.68 283.92"
+   xml:space="preserve"
+   sodipodi:docname="wx-lightning.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs13" /><sodipodi:namedview
+   id="namedview11"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="1.4792899"
+   inkscape:cx="2.0280001"
+   inkscape:cy="207.53201"
+   inkscape:window-width="1920"
+   inkscape:window-height="1015"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<path
+   id="path2"
+   d="m 130.68114,7.3130107 c -28.62253,0 -52.173483,21.8993923 -54.787043,49.8408903 -27.943958,2.620938 -49.845691,26.166892 -49.845691,54.789449 0,30.37682 24.660059,55.03675 55.031951,55.03675 h 20.579363 l 20.31524,-45.4926 a 6.5161273,6.5161273 0 0 1 5.94978,-3.85848 h 54.26602 a 6.5161273,6.5161273 0 0 1 5.12143,10.54299 l -30.52448,38.80809 h 45.80474 c 30.37679,0 55.03914,-24.65993 55.03914,-55.03675 -0.001,-30.371897 -24.66235,-55.027152 -55.03914,-55.027153 H 185.44177 C 182.71513,29.084109 159.22257,7.3130107 130.68114,7.3130107 Z M 127.92234,124.14546 94.110827,199.86241 H 130.61391 L 96.346197,276.607 176.81002,174.30328 l -34.86077,1.00125 40.24151,-51.15907 z"
+   style="stroke-width:1" />
 </svg>
