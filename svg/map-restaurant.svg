@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="Layer_3"
+   x="0px"
+   y="0px"
+   width="283.46px"
+   height="283.46px"
+   viewBox="0 0 283.46 283.46"
+   enable-background="new 0 0 283.46 283.46"
+   xml:space="preserve"
+   sodipodi:docname="map-restaurant"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs15" /><sodipodi:namedview
+   id="namedview13"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="2.0954269"
+   inkscape:cx="-20.998108"
+   inkscape:cy="152.71351"
+   inkscape:window-width="1920"
+   inkscape:window-height="995"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_3" />
+
+<path
+   id="restaurant"
+   d="m 35.936126,7.0832457 c -4.80882,0 -9.61763,4.8088103 -9.61763,14.4264403 V 141.73 c 0,19.23525 33.66169,19.23525 33.66169,38.4705 l -9.61763,96.17625 h 48.08812 l -9.61761,-96.17625 c 0,-19.23525 33.661684,-19.23525 33.661684,-38.4705 V 21.509686 c 0,-19.2352503 -19.23525,-19.2352503 -19.23525,0 V 122.49475 c 0,10.83502 -19.235254,10.83502 -19.235254,0 V 21.509686 c 0,-19.2352503 -19.23525,-19.2352503 -19.23525,0 V 122.49475 c 0,10.14332 -19.23525,10.14332 -19.23525,0 V 21.509686 c 0,-9.61763 -4.80881,-14.4264403 -9.61762,-14.4264403 z m 163.499624,0 c -19.23525,0 -57.70575,38.4705003 -57.70575,96.1762543 0,57.70575 43.27931,76.941 43.27931,76.941 l -9.61763,96.17625 h 48.08813 l -9.61763,-96.17625 c 0,0 43.27932,-19.23525 43.27932,-76.941 0,-57.705754 -38.4705,-96.1762543 -57.70575,-96.1762543 z"
+   style="fill:#000000;stroke-width:19.2352" /></svg>

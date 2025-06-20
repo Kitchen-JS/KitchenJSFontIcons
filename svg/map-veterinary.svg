@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="Layer_3"
+   x="0px"
+   y="0px"
+   width="283.46px"
+   height="283.46px"
+   viewBox="0 0 283.46 283.46"
+   enable-background="new 0 0 283.46 283.46"
+   xml:space="preserve"
+   sodipodi:docname="map-veterinary.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs15" /><sodipodi:namedview
+   id="namedview13"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="2.0954269"
+   inkscape:cx="-20.998108"
+   inkscape:cy="152.71351"
+   inkscape:window-width="1920"
+   inkscape:window-height="995"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_3" />
+
+<g
+   id="g2"
+   transform="matrix(20.134056,0,0,20.134056,6.6102477,6.9711425)"><path
+     d="m 4.6420846,0.00558027 c -1.4191217,0 -1.6451859,1.93046953 -1.28125,2.90625003 0.2309426,0.6229801 0.9343629,1.2247856 1.65625,0.96875 0.9335425,-0.4615372 1.1973085,-1.6449623 0.9375,-2.5625 C 5.828596,0.70685457 5.3409833,0.00558027 4.6420846,0.00558027 Z m 3.96875,0 c -0.698899,0 -1.186511,0.7012743 -1.3125,1.31250003 -0.259808,0.9175377 0.00396,2.1009628 0.9375,2.5625 0.721887,0.2560356 1.4253071,-0.3457699 1.65625,-0.96875 C 10.256021,1.9360498 10.029957,0.00558027 8.6108346,0.00558027 Z M 0.57799559,3.0993303 c -0.56058037,0.5605804 -0.48717187,2.1737669 0.53125001,2.84375 0.6600812,0.3383798 1.3300194,-0.099142 1.5625,-0.625 C 3.0643492,4.5712166 2.956461,3.5096042 2.2654956,2.9743303 1.6041181,2.5328994 1.096084,2.581242 0.57799559,3.0993303 Z m 10.56250041,-0.125 c -0.482178,0.2783854 -0.798854,1.5968863 -0.40625,2.34375 0.232481,0.5258585 0.933669,0.9633798 1.59375,0.625 1.018422,-0.6699831 1.071545,-2.272205 0.5,-2.84375 -0.531945,-0.4452677 -1.16164,-0.4286055 -1.6875,-0.125 z m -4.4375004,1.40625 c -2.4852814,0 -4.5,2.0147186 -4.5,4.5 0,2.4852807 2.0147186,4.4999997 4.5,4.4999997 2.485281,0 4.5000004,-2.014719 4.5000004,-4.4999997 0,-2.4852814 -2.0147194,-4.5 -4.5000004,-4.5 z m -1,1.5 h 2 v 2 h 2 v 1.9999998 l -2,0.03125 V 11.88058 h -2 V 9.8805801 h -2 V 7.8805803 h 2 z"
+     id="veterinary"
+     style="fill:#000000;fill-opacity:1;stroke:none" /></g></svg>
